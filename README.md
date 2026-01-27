@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Shahmeir, a computer science student based in Canada.
+My name is Shahmeir, a computer science student based in Canada with both American & Canadian Citizenship
 
 I’m currently working on my Python foundations by practicing and developing mini assignments.
 
