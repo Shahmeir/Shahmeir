@@ -11,7 +11,7 @@ My main tech stack is MongoDB, Express, React, and Node.js.
 
   - I am a citizen of both Canada and the United States
   - I like cats
-  - I dislike coffee
+  - I dislike coffee (Starting to like it now)
   - Hobbies: Studying & Gym
 <!--
 **Shahmeir/Shahmeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
